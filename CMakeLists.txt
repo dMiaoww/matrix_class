@@ -7,3 +7,5 @@ find_package(Eigen3 REQUIRED)
 include_directories("/usr/include/eigen3")
 
 add_subdirectory(class1)
+add_subdirectory(class2)
+add_subdirectory(class3)

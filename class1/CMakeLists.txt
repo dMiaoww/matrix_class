@@ -1,3 +1,3 @@
-add_executable(class class1)
+add_executable(class1 class1)
 
-target_link_libraries(class ${EIGEN_LIBRARIES})
+target_link_libraries(class1 ${EIGEN_LIBRARIES})
